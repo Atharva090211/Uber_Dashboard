@@ -94,8 +94,10 @@ Monthly performance visuals for each vehicle type 🚗🏍
 
 📸 Dashboard Previews :-
 
-Dashboard 1: image alt
-Dashboard 2: image alt
-Dashboard 3: image alt
+Dashboard 1: ![Dashboard Preview](https://github.com/Atharva090211/Uber_Dashboard/blob/main/Home.png)
+
+Dashboard 2: ![Dashboard Preview](https://github.com/Atharva090211/Uber_Dashboard/blob/main/Overview.png)
+
+<!-- Dashboard 3: image alt
 Dashboard 4: image alt
-Dashboard 5: image alt
+Dashboard 5: image alt >
