@@ -1,5 +1,7 @@
 🚖 Uber_Rides_Analytics
+
 📊 Uber Ride Analytics Dashboard (Python • SQL • Excel • Power BI)
+
 🧠 Project Overview :-
 
 This project focuses on building an end-to-end Uber ride analytics dashboard using Python, SQL, Excel, and Power BI.
@@ -8,6 +10,7 @@ The goal was to convert raw ride-level data into meaningful insights related to 
 The entire pipeline—data generation, cleaning, storage, and visualization—helps give a real-world understanding of how ride-based companies like Uber track operational and business performance. 🚕✨
 
 💡 Dashboards Overview :-
+
 🔹 Dashboard 1 – Overview & Performance Metrics
 
 This dashboard provides a complete summary of Uber ride performance. It includes:
