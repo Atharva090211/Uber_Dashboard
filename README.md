@@ -1,4 +1,4 @@
-🚖 Uber_Rides_Analytics
+# 🚖 Uber_Rides_Analytics
 
 📊 Uber Ride Analytics Dashboard (Python • SQL • Excel • Power BI)
 
@@ -93,8 +93,6 @@ Monthly performance visuals for each vehicle type 🚗🏍
 ✅ Improved understanding of how ride-based businesses operate
 
 📸 Dashboard Previews :-
-
-Add your dashboard images here 👇
 
 Dashboard 1: image alt
 Dashboard 2: image alt
