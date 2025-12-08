@@ -1,6 +1,6 @@
 # 🚖 Uber_Rides_Analytics
 
-📊 Uber Ride Analytics Dashboard (Python • SQL • Excel • Power BI)
+📊 Uber Ride Analytics Dashboard (SQL • Excel • Power BI)
 
 🧠 Project Overview :-
 
