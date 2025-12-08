@@ -4,7 +4,7 @@
 
 🧠 Project Overview :-
 
-This project focuses on building an end-to-end Uber ride analytics dashboard using Python, SQL, Excel, and Power BI.
+This project focuses on building an end-to-end Uber ride analytics dashboard using SQL, Excel, and Power BI.
 The goal was to convert raw ride-level data into meaningful insights related to bookings, revenue, cancellations, customer behavior, and vehicle performance.
 
 The entire pipeline—data generation, cleaning, storage, and visualization—helps give a real-world understanding of how ride-based companies like Uber track operational and business performance. 🚕✨
@@ -74,8 +74,6 @@ Total bookings, avg distance, total ride distance, and revenue
 Monthly performance visuals for each vehicle type 🚗🏍
 
 ⚙️ Tools & Technologies :-
-
-🐍 Python → Data generation & automation
 
 🧾 Microsoft Excel → Data cleaning & preprocessing
 
